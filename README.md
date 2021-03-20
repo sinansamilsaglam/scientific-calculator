@@ -1,1 +1,2 @@
-# C-Sharp-Bilimsel-Hesap-Makinesi
+# C# Scientific Calculator
+C-Sharp-Bilimsel-Hesap-Makinesi
