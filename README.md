@@ -1,2 +1,2 @@
 # C# Scientific Calculator
-C-Sharp-Bilimsel-Hesap-Makinesi
+# C# Bilimsel Hesap Makinesi
